@@ -1,7 +1,8 @@
 {
-  "name": "@uniswap/analytics-events",
-  "description": "Uniswap analytics events",
+  "name": "depin-dex-analytics-events",
+  "description": "DepinDex analytics events",
   "license": "MIT",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
